@@ -1,0 +1,9 @@
+**/personal.auto.tfvars
+*.tfstate
+**/.terraform.*
+**/*key.json
+*.ppk
+*id_rsa*
+*.tfstate.*
+*.terraform
+.gitattributes
